@@ -56,4 +56,5 @@ public class Agenda {
                 + direccion + ", Pago=" + pago + ", Dias en mora=" + diasMora ;
     }
     
+    
 }
